@@ -41,7 +41,7 @@ body.purple {
 /* 💖 Hearts */
 .hearts::before,
 .hearts::after {
-  content: "💗 💕 💖 💘 💝";
+  content: "😭💗✨🧿💘💋💕🎀";
   position: fixed;
   bottom: -10%;
   font-size: 24px;
@@ -119,3 +119,4 @@ button {
   margin-top: 20px;
   color: #b0005f;
 }
+
